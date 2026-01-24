@@ -3,7 +3,7 @@
 This training curriculum is designed to help individuals prepare for the HashiCorp Certified Terraform Associate certification exam. It includes a comprehensive overview of the Terraform platform and its associated tools and technologies.
 
 [Exam and Study table](exam-and-toc.md)  
-[Ultimate Terraform hands-on labs](https://collabnix.github.io/terraform/)
+[Ultimate Terraform hands-on labs](https://collabnix.github.io/terraform/)    
 [Learning path 004](https://developer.hashicorp.com/terraform/tutorials/certification-004/associate-study-004)
 
 ## Course Overview
