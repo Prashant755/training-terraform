@@ -4,6 +4,7 @@ This training curriculum is designed to help individuals prepare for the HashiCo
 
 [Exam and Study table](exam-and-toc.md)  
 [Ultimate Terraform hands-on labs](https://collabnix.github.io/terraform/)
+[Learning path 004](https://developer.hashicorp.com/terraform/tutorials/certification-004/associate-study-004)
 
 ## Course Overview
 
